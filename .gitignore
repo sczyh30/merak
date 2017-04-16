@@ -1,0 +1,16 @@
+dist/*
+target/
+project/target
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+*.log
+logs/
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
